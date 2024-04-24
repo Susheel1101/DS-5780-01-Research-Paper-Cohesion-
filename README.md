@@ -1,4 +1,4 @@
-# DS-5780-01-Research-Paper-Cohesion-
+# DS-5780-01-Research_Paper-Cohesion
 # Distinguishing the Author: An NLP Analysis of Cohesion
 in Human vs. AI-Generated Essays
 

@@ -1,5 +1,7 @@
 # DS-5780-01-Research-Paper-Cohesion-
-# Analysis of Linguistic Features in AI-Generated and L2 Writer Essays
+# Distinguishing the Author: An NLP Analysis of Cohesion
+in Human vs. AI-Generated Essays
+
 
 ## Purpose
 
